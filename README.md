@@ -45,10 +45,5 @@ I have experience working with:
 - [LinkedIn](https://www.linkedin.com/in/kssujith)
 - [Email](mailto:sujithsmenon@hotmail.com)
 
-[snake.yml](https://github.com/user-attachments/files/22849729/snake.yml)
-
-
-
-
 
 <img width="2106" height="332" alt="footer" src="https://github.com/user-attachments/assets/54d2259c-db76-411e-830b-3ff4e45b534e" />
